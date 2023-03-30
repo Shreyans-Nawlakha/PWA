@@ -1,0 +1,19 @@
+{
+    "name": "FilesGO",
+    "short_name": "PWA App",
+    "start_url": "index.html",
+    "description": "File Storage web app",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "images/logo-2.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "images/logo-1.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        }
+    ]
+}
